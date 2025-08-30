@@ -1,6 +1,6 @@
 name = "legate_jl_wrapper_jll"
 uuid = "6e093c14-372f-5516-b4d7-a6ce14f1038b"
-version = "25.5.0+0"
+version = "25.5.1+0"
 
 [deps]
 legate_jll = "e95fb1d3-fb9e-51b5-bdb8-1a812408cac9"

@@ -1,6 +1,6 @@
 name = "legate_jl_wrapper_jll"
 uuid = "6e093c14-372f-5516-b4d7-a6ce14f1038b"
-version = "25.10.1+0"
+version = "25.10.2+0"
 
 [deps]
 legate_jll = "e95fb1d3-fb9e-51b5-bdb8-1a812408cac9"
@@ -16,7 +16,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 [compat]
 JLLWrappers = "1.7.0"
 julia = "1.10"
-legate_jll = "=25.10.1"
+legate_jll = "~25.10.1"
 LazyArtifacts = "< 0.0.1, 1"
 libcxxwrap_julia_jll = "0.14.3"
 Libdl = "< 0.0.1, 1"

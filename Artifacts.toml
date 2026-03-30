@@ -10,7 +10,7 @@ os = "linux"
 
     [[legate_jl_wrapper.download]]
     sha256 = "28f3fda1251ab10d9748d0009a11b5de83d2dc4c766c0a8c63d3b509ce043cae"
-    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+0/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+none-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+1/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+none-julia_version+1.10.0.tar.gz"
 [[legate_jl_wrapper]]
 arch = "x86_64"
 cuda = "none"
@@ -23,7 +23,20 @@ os = "linux"
 
     [[legate_jl_wrapper.download]]
     sha256 = "0a7cc3e0aa4fdb2df472e042b84a8f6409714fe85db3f227382c23250bccdc97"
-    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+0/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+none-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+1/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+none-julia_version+1.11.1.tar.gz"
+[[legate_jl_wrapper]]
+arch = "x86_64"
+cuda = "none"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "df66ac2252cc718db56f8bf575937f25aa8662d0"
+julia_version = "1.12.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate_jl_wrapper.download]]
+    sha256 = "0bc8feaff3bfb22dad1730d7a66f9137f5ae707f4c914b40f084ff9e266d2227"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+1/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+none-julia_version+1.12.0.tar.gz"
 [[legate_jl_wrapper]]
 arch = "x86_64"
 cuda = "13.0"
@@ -36,7 +49,7 @@ os = "linux"
 
     [[legate_jl_wrapper.download]]
     sha256 = "86a224bcaaf49f2825eb6fd686c1f6d0d25dec2ec451f7ec7c45d948aa857dd6"
-    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+0/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+1/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.10.0.tar.gz"
 [[legate_jl_wrapper]]
 arch = "x86_64"
 cuda = "13.0"
@@ -49,4 +62,17 @@ os = "linux"
 
     [[legate_jl_wrapper.download]]
     sha256 = "cb5003736a3b3ca2d0706454eb99d359e2e0f3abd62d79c4a67b836a2ef7a83b"
-    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+0/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.11.1.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+1/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.11.1.tar.gz"
+[[legate_jl_wrapper]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60fa4042db4d69306dcfba1d45b73513d7f1cd55"
+julia_version = "1.12.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[legate_jl_wrapper.download]]
+    sha256 = "503bea7d9f0223435f434f6d976b4952e21ea02fe7eafbfa7443c1b9206047f2"
+    url = "https://github.com/JuliaBinaryWrappers/legate_jl_wrapper_jll.jl/releases/download/legate_jl_wrapper-v25.10.3+1/legate_jl_wrapper.v25.10.3.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.12.0.tar.gz"
